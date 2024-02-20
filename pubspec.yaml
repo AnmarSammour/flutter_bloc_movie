@@ -1,0 +1,32 @@
+name: flutter_bloc_movie
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  animated_text_kit: ^4.2.2
+  bloc: ^8.1.2
+  conditional_builder_null_safety: ^0.0.6
+  cupertino_icons: ^1.0.6
+  dio: ^5.4.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_offline: ^3.0.1
+  flutter_screenutil: ^5.9.0
+  meta: ^1.10.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
