@@ -14,7 +14,7 @@ A Flutter application that displays information about characters from the TV sho
 [![Watch the video]](https://github.com/AnmarSammour/flutter_bloc_movie/assets/112755848/87184b2d-62cc-4c5b-8f25-fcdf4422e5bd)
 ## Data Source
 
-The information about Breaking Bad characters is retrieved from the [Rick and Morty API](https://rickandmortyapi.com/api). The API provides a wide range of data related to the characters, locations, and episodes from the TV show "Rick and Morty".
+The information about Breaking Bad characters is retrieved from the [Rick and Morty API](https://rickandmortyapi.com). The API provides a wide range of data related to the characters, locations, and episodes from the TV show "Rick and Morty".
 
 ## Installation
 
