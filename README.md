@@ -11,7 +11,7 @@ A Flutter application that displays information about characters from the TV sho
 
 ## Video Preview
 
-[![Watch the video](https://github.com/AnmarSammour/flutter_bloc_movie/assets/112755848/87184b2d-62cc-4c5b-8f25-fcdf4422e5bd)
+(https://github.com/AnmarSammour/flutter_bloc_movie/assets/112755848/87184b2d-62cc-4c5b-8f25-fcdf4422e5bd)
 
 ## Data Source
 
